@@ -14,7 +14,7 @@ ALLOWED_ORIGINS = {
     "https://exam.sanand.workers.dev",  # exam page origin
     "https://tools-in-data-science.pages.dev"  # possible exam page variant
 }
-MY_EMAIL = "your-email@example.com"   # <-- REPLACE WITH YOUR REAL EMAIL
+MY_EMAIL = "24f2002559@ds.study.iitm.ac.in"   # <-- REPLACE WITH YOUR REAL EMAIL
 
 # In‑memory rate limiter buckets: client_id -> list of timestamps
 rate_buckets = defaultdict(list)
